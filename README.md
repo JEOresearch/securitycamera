@@ -1,6 +1,10 @@
 # securitycamera
 Set of scripts for motion detection and a DIY security camera on PC and Raspberry Pi
 
+The setup and usage are described in detail in this video: https://youtu.be/Jb_5d0TSlAw
+
+To help support this software and other open-source projects, please consider subscribing to my YouTube channel: https://www.youtube.com/@jeoresearch
+
 ---
 
 ## Features
